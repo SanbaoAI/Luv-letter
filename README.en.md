@@ -188,8 +188,8 @@ Luv Letter is not a prompt. It is a **breathing** reflection system. Each part d
 | **Orchestrator** | The heartbeat | Each turn: feel the context first, then choose — go deeper, rest here, or hold your words a little longer |
 | **Memory** | Sliced letters | Worth-keeping fragments, filed one by one — not chat logs, but **what you confirmed as true** |
 | **ReAct** | Slow loop | Observe → understand → respond → validate → only then write to the page |
+| **Letter Composer** | Natural writing | No templates — listening, understanding, and extension unfold following the conversation's own rhythm |
 | **Safety** | Gentle boundary | When reality needs you more than reflection, stop unpacking — safety first |
-| **Reflection Engine** | Three echoes | Hear you → tentatively unfold → return the question to you |
 | **Gate** | Depth door | After enough rounds, a quiet ask: deeper still, or pause here? |
 | **Image** | Visual trigger | No object labels — only: what does this image feel like inside you? |
 | **Pause** | The sign-off | A closing mirror and farewell; confirmed insights saved for next time |
@@ -225,15 +225,13 @@ My mind won't stop. Every message feels urgent. If I don't reply, I get anxious.
 
 ### Step 2 · Follow the letter's rhythm
 
-Each turn, three layers woven into natural prose — never labeled "Layer 1":
+Each response flows naturally with the conversation — no fixed template, shaped by the moment:
 
-| | |
-| --- | --- |
-| **Echo** | Your words mirrored back — heard first |
-| **Deconstruction** | Emotion, assumption, tension — offered tentatively; correct anytime |
-| **Extension** | One or two open questions; meaning stays with you |
+- Heard first: Your words gently mirrored back
+- Tentative understanding: Emotion, assumption, tension softly offered; correct anytime
+- Staying open: Questions, not answers; meaning stays with you
 
-After about **four rounds**:
+The dialogue follows your pace. After about **four rounds**:
 
 > Would you like to go deeper into this, or rest here for now?
 
@@ -308,11 +306,7 @@ Full scenarios (with internal ReAct traces): [examples.md](./skills/luv-letter/e
 
 > It sounds less like simple tiredness, and more like a mind that stays occupied — as if rest never fully arrives while "respond now" keeps pulling at you.
 >
-> If I try to lay this out — and you can correct any part:
->
-> - Emotion: exhaustion, tension
-> - A possible assumption: "I should always be available"
-> - Tension: need for rest ↔ pressure to respond immediately
+> There seem to be a few forces at play: exhaustion, an unspoken assumption about "always being available," and the pull between needing rest and feeling pressure to reply immediately.
 >
 > Which part lands closest for you?
 

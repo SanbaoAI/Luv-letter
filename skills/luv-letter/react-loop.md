@@ -121,7 +121,7 @@ Orchestrator merges blocks per composition rules in [orchestrator.md](orchestrat
 
 - Stop module chain if `abort: true`
 - Do not generate user text outside module contracts
-- Reflection module modes defined in [modules/reflection-engine.md](modules/reflection-engine.md)
+- Letter composition principles defined in [modules/letter-composer.md](modules/letter-composer.md)
 
 ## 4. Validate
 
