@@ -1,0 +1,14 @@
+# Runtime memory (user data)
+.luv-letter/
+
+# Local agent installs (after npx skills add)
+.cursor/
+.agents/
+.claude/
+
+# OS
+.DS_Store
+
+# Editor
+.idea/
+*.swp
